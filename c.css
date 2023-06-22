@@ -1,0 +1,21 @@
+body{background-color:gold;}
+
+
+
+
+.login{
+padding:40px;
+border-bottom-right-ridius:15px;
+bolder-top-left-radius:15px
+}
+.login input{
+	padding:10px;
+}
+.login  button{
+	padding :15px;
+}
+button{
+	background-color:green;
+	color:white;
+	width:13%
+}

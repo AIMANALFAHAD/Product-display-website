@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Login:A&N accessorise</title>
+<link rel ="stylesheet"href="c.css">
+</head>
+<body
+style= "background:url(9.jpg);background-repeat:no-repeat;background-size:100%">
+<center>
+<a href="1.html">
+<img src="11.jpg" width="50"height="50" align="center-left">
+</a>
+</center>
+<hr size="2"width="100% color="black">
+<br>
+<br>
+<br>
+<br>
+<br>
+<center>
+ <h3 style="color:white;"> Please login to be able to shop from our website..</h3>
+ </center>
+<div class="login">
+<center>
+<form method="post" action="verfi.php" enctype="multipart/form-data">
+
+
+<input type="text" name="user_name" placeholder="username"><br>
+<h1><input type="password" name="password" placeholder="password"></h1>
+<h1>
+<button type="submit">click here</button>
+</h1>
+
+</form>
+</center>
+</div>
+</body>
+</html>
